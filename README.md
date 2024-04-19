@@ -8,7 +8,7 @@
 ---
 
 ## About Me
-I'm a results-driven Full-Stack Developer with a strong background in software development and data analysis. I currently contribute to Pharma FootPath, focusing on data analysis and validation. I've worked across various industries, including AI, E-commerce, and Telecommunications, since 2017. My experience includes designing and developing web tools, implementing automated ETL processes, and advancing e-commerce development.
+I'm a results-driven Full-Stack Developer with a strong background in software development and data analysis. I've worked across various industries, including AI, E-commerce, and Telecommunications, since 2017. My experience includes designing and developing web tools, implementing automated ETL processes, and advancing e-commerce development.
 
 ## Technical Stack
 - **Languages:** Python, JavaScript
