@@ -1,14 +1,14 @@
 ### Hi there 👋
 # Jonathan Sanchez
 
-### Full-Stack Python Developer
+### SR Python Developer
 
 📫 **Contact Me**: [Email](mailto:jhsanchez.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jonathan-sanchez90) | [GitHub](https://github.com/jonahs90)
 
 ---
 
 ## About Me
-I'm a results-driven Full-Stack Developer with a strong background in software development and data analysis. I've worked across various industries, including AI, E-commerce, and Telecommunications, since 2017. My experience includes designing and developing web tools, implementing automated ETL processes, and advancing e-commerce development.
+I'm a results-driven Python Developer with a strong background in software development and data analysis. I've worked across various industries, including AI, E-commerce, and Telecommunications, since 2017. My experience includes designing and developing web tools, implementing automated ETL processes, and advancing e-commerce development.
 
 ## Technical Stack
 - **Languages:** Python, JavaScript
